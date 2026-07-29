@@ -57,7 +57,7 @@
       "sectionId": "sec_d1bkstr",
       "title": "Technical Specifications",
       "order": 1,
-      "updated": "28 Jul 2026",
+      "updated": "29 Jul 2026",
       "file": "akaar-e1-getting-started-technical-requirements.json"
     },
     {
@@ -238,6 +238,15 @@
     }
   ],
   "changelog": [
+    {
+      "date": "29 Jul 2026",
+      "tag": "updated",
+      "product": "Akaar E1",
+      "text": "\"Technical Specifications\" updated",
+      "details": [
+        "image added: \"image\""
+      ]
+    },
     {
       "date": "28 Jul 2026",
       "tag": "updated",
