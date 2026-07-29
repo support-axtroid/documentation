@@ -1,0 +1,14 @@
+{
+  "blocks": [
+    {
+      "id": "blk_jal1lpr",
+      "type": "text",
+      "html": "<p>This is documentation authoring platform for&nbsp;<a class=\"rte-ext-link\" href=\"https://www.axtroid.com/documentation\" target=\"_blank\" rel=\"noopener\"><b>Axtroid Documentation Portal ↗</b></a>.</p><p>The technical information on Axtroid products in terms Quick Start, User Manuals, Service Manuals, FAQs, etc. are available through the documentation portal. Any ch<span style=\"font-size: 0.95rem;\">anges triggered can be edited and made live.</span></p><h1>Prerequisites</h1><p>Always make sure you have necessary access to work on DocStudio.</p><p></p><div class=\"rte-callout rte-callout-note\"><span class=\"rte-callout-icon\" contenteditable=\"false\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M12 8h.01\"></path><path d=\"M11 11h1v5h1\"></path></svg></span><div class=\"rte-callout-inner\"><span class=\"rte-callout-title\">Note&nbsp;&nbsp;<b style=\"font-size: 0.92rem; color: rgb(32, 31, 35);\">Download the DocStudio application. Contact Admin.</b></span></div></div><ol><li>Once the application is downloaded, click to open it.</li><li>Make sure you see instructions page.</li><li>Follow the instructions to set the real-time authoring-environment.</li><li>Click ⚙️icon on the top left, to edit <b>GitHub Settings</b>.</li><li>Fill the details as shown below then click <b>Connect</b>.</li><ol><li>Owner: axtroid</li><li>Repo: documentation</li><li>Path: docs/index.html (obtain it from your admin)</li><li>Branch: main</li><li>Personal access token: (obtain it from you admin)</li></ol></ol><div><div class=\"rte-callout rte-callout-important\"><span class=\"rte-callout-icon\" contenteditable=\"false\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M5 3v18\"></path><path d=\"M5 4h11l-2 4 2 4H5\"></path></svg></span><div class=\"rte-callout-inner\"><span class=\"rte-callout-title\">Important&nbsp;&nbsp;<span style=\"font-size: 0.92rem; color: rgb(32, 31, 35);\">Refresh (F5 or Ctrl+R) to load the latest content from the server.</span></span></div></div></div>"
+    },
+    {
+      "id": "blk_02x3kz3",
+      "type": "text",
+      "html": "<h1>How to edit content?</h1><div><br></div>"
+    }
+  ]
+}
