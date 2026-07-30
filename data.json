@@ -80,7 +80,7 @@
     {
       "id": "sec_qgx4m9t",
       "productId": "prod_npbr017",
-      "title": "User Manuals",
+      "title": "Overview",
       "order": 0
     },
     {
@@ -98,7 +98,7 @@
     {
       "id": "sec_b0s904i",
       "productId": "prod_npbr017",
-      "title": "FAQs",
+      "title": "User Manual",
       "order": 3
     },
     {
@@ -322,9 +322,106 @@
       "order": 0,
       "updated": "30 Jul 2026",
       "file": "myna-s1-technical-specifications-myna-s1.json"
+    },
+    {
+      "id": "top_cj2381a",
+      "sectionId": "sec_qgx4m9t",
+      "title": "Akaar E1",
+      "order": 0,
+      "updated": "30 Jul 2026",
+      "file": "akaar-e1-overview-akaar-e1.json"
+    },
+    {
+      "id": "top_9cu116n",
+      "sectionId": "sec_qgx4m9t",
+      "title": "Technical Specifications",
+      "order": 1,
+      "updated": "30 Jul 2026",
+      "file": "akaar-e1-overview-technical-specifications.json"
     }
   ],
   "changelog": [
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Akaar E1",
+      "text": "\"Technical Specifications\" updated",
+      "details": [
+        "image added: \"Akaar E1\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "added",
+      "product": "Akaar E1",
+      "text": "Technical Specifications",
+      "details": [
+        "Technical Specifications"
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Akaar E1",
+      "text": "\"Akaar E1\" updated",
+      "details": [
+        "text added: \"\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Akaar E1",
+      "text": "\"Akaar E1\" updated",
+      "details": [
+        "image added: \"Akaar E1\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Akaar E1",
+      "text": "\"Akaar E1\" updated",
+      "details": [
+        "text added: \"\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "added",
+      "product": "Akaar E1",
+      "text": "Akaar E1",
+      "details": [
+        "Akaar E1"
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "removed",
+      "product": "Akaar E1",
+      "text": "Deleted section \"Overview\" and its topics.",
+      "details": [
+        "Deleted section \"Overview\" and its topics."
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "removed",
+      "product": "Akaar E1",
+      "text": "Deleted topic \"Akaar E1\".",
+      "details": [
+        "Deleted topic \"Akaar E1\"."
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "added",
+      "product": "Akaar E1",
+      "text": "Akaar E1",
+      "details": [
+        "Akaar E1"
+      ]
+    },
     {
       "date": "30 Jul 2026",
       "tag": "updated",
