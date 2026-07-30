@@ -414,7 +414,7 @@
     {
       "id": "top_6eibzf8",
       "sectionId": "sec_qgx4m9t",
-      "title": "Quick Start Guide",
+      "title": "Setup",
       "order": 2,
       "updated": "30 Jul 2026",
       "file": "akaar-e1-getting-started-quick-start-guide.json"
@@ -437,6 +437,28 @@
     }
   ],
   "changelog": [
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Akaar E1",
+      "text": "\"Setup\" updated",
+      "details": [
+        "No visible content change."
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Akaar E1",
+      "text": "\"Setup\" updated",
+      "details": [
+        "Title renamed from \"Quick Start Guide\" to \"Setup\".",
+        "text added: \"\"",
+        "text added: \"\"",
+        "text added: \"\"",
+        "text added: \"\""
+      ]
+    },
     {
       "date": "30 Jul 2026",
       "tag": "updated",
