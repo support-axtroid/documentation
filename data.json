@@ -9,6 +9,41 @@
       "id": "prod_0f76ils",
       "name": "Vyra S1",
       "category": "VR"
+    },
+    {
+      "id": "prod_npbr017",
+      "name": "Akaar E1",
+      "category": "3D Printers"
+    },
+    {
+      "id": "prod_lnd2fz1",
+      "name": "Koyla N1",
+      "category": "Drones"
+    },
+    {
+      "id": "prod_8f6w1qd",
+      "name": "Myna S1",
+      "category": "Drones"
+    },
+    {
+      "id": "prod_hxv68h9",
+      "name": "Veksha S1",
+      "category": "3D Scanners"
+    },
+    {
+      "id": "prod_y3f1tom",
+      "name": "Vilay S1",
+      "category": "3D Printers"
+    },
+    {
+      "id": "prod_nu2beys",
+      "name": "Mahakaar 3XL1",
+      "category": "3D Printers"
+    },
+    {
+      "id": "prod_3dby6gh",
+      "name": "PLA Materials",
+      "category": "Materials"
     }
   ],
   "sections": [
@@ -41,6 +76,30 @@
       "productId": "prod_7y9y0h1",
       "title": "Service Manuals",
       "order": 4
+    },
+    {
+      "id": "sec_qgx4m9t",
+      "productId": "prod_npbr017",
+      "title": "User Manuals",
+      "order": 0
+    },
+    {
+      "id": "sec_p4eqztd",
+      "productId": "prod_npbr017",
+      "title": "Service Manuals",
+      "order": 1
+    },
+    {
+      "id": "sec_18mrzyq",
+      "productId": "prod_npbr017",
+      "title": "Troubleshooting Guides",
+      "order": 2
+    },
+    {
+      "id": "sec_b0s904i",
+      "productId": "prod_npbr017",
+      "title": "FAQs",
+      "order": 3
     }
   ],
   "topics": [
