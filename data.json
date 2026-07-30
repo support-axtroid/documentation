@@ -80,7 +80,7 @@
     {
       "id": "sec_qgx4m9t",
       "productId": "prod_npbr017",
-      "title": "Overview",
+      "title": "Getting Started",
       "order": 0
     },
     {
@@ -342,7 +342,7 @@
     {
       "id": "top_cj2381a",
       "sectionId": "sec_qgx4m9t",
-      "title": "Akaar E1",
+      "title": "Overview",
       "order": 0,
       "updated": "30 Jul 2026",
       "file": "akaar-e1-overview-akaar-e1.json"
@@ -410,9 +410,93 @@
       "order": 1,
       "updated": "30 Jul 2026",
       "file": "vayra-x1-overview-technical-specifications.json"
+    },
+    {
+      "id": "top_6eibzf8",
+      "sectionId": "sec_qgx4m9t",
+      "title": "Quick Start Guide",
+      "order": 2,
+      "updated": "30 Jul 2026",
+      "file": "akaar-e1-getting-started-quick-start-guide.json"
+    },
+    {
+      "id": "top_agl8ta9",
+      "sectionId": "sec_b0s904i",
+      "title": "User's Manual (v1.0)",
+      "order": 0,
+      "updated": "30 Jul 2026",
+      "file": "akaar-e1-user-manual-user-s-manual-v1-0.json"
+    },
+    {
+      "id": "top_30oy5ls",
+      "sectionId": "sec_p4eqztd",
+      "title": "Service Manual v1.0",
+      "order": 0,
+      "updated": "30 Jul 2026",
+      "file": "akaar-e1-service-manuals-service-manual-v1-0.json"
     }
   ],
   "changelog": [
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Akaar E1",
+      "text": "\"Quick Start Guide\" updated",
+      "details": [
+        "No visible content change."
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "added",
+      "product": "Akaar E1",
+      "text": "Service Manual v1.0",
+      "details": [
+        "Service Manual v1.0"
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "added",
+      "product": "Akaar E1",
+      "text": "User's Manual (v1.0)",
+      "details": [
+        "User's Manual (v1.0)"
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "removed",
+      "product": "Akaar E1",
+      "text": "Deleted section \"User's Manual (v1.0)\" and its topics.",
+      "details": [
+        "Deleted section \"User's Manual (v1.0)\" and its topics."
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Akaar E1",
+      "text": "\"Quick Start Guide\" updated",
+      "details": [
+        "text added: \"\"",
+        "text added: \"\"",
+        "text added: \"\"",
+        "text added: \"\"",
+        "text added: \"\"",
+        "text added: \"\"",
+        "image added: \"Akaar E1 - Components\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "added",
+      "product": "Akaar E1",
+      "text": "Quick Start Guide",
+      "details": [
+        "Quick Start Guide"
+      ]
+    },
     {
       "date": "30 Jul 2026",
       "tag": "updated",
