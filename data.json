@@ -2,7 +2,7 @@
   "products": [
     {
       "id": "prod_7y9y0h1",
-      "name": "Akaar E1",
+      "name": "Akaar L1",
       "category": "3D Printers"
     },
     {
@@ -50,7 +50,7 @@
     {
       "id": "sec_d1bkstr",
       "productId": "prod_7y9y0h1",
-      "title": "Getting Started",
+      "title": "Overview",
       "order": 0
     },
     {
@@ -116,27 +116,19 @@
   ],
   "topics": [
     {
-      "id": "top_12f88pi",
-      "sectionId": "sec_d1bkstr",
-      "title": "Quick Start Guide",
-      "order": 0,
-      "updated": "28 Jul 2026",
-      "file": "instructions-getting-started-axtroid-docstudio-v1-0-0.json"
-    },
-    {
       "id": "top_dfba329",
       "sectionId": "sec_d1bkstr",
-      "title": "Technical Specifications",
+      "title": "Akaar L1",
       "order": 1,
-      "updated": "29 Jul 2026",
+      "updated": "30 Jul 2026",
       "file": "akaar-e1-getting-started-technical-requirements.json"
     },
     {
       "id": "top_1gnqpw8",
       "sectionId": "sec_d1bkstr",
-      "title": "System Requirements",
+      "title": "Technical Specifications",
       "order": 2,
-      "updated": "28 Jul 2026",
+      "updated": "30 Jul 2026",
       "file": "akaar-e1-getting-started-system-requirements.json"
     },
     {
@@ -341,6 +333,45 @@
     }
   ],
   "changelog": [
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Akaar L1",
+      "text": "\"Technical Specifications\" updated",
+      "details": [
+        "image added: \"image\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Akaar L1",
+      "text": "\"Akaar L1\" updated",
+      "details": [
+        "text added: \"\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Akaar L1",
+      "text": "\"Akaar L1\" updated",
+      "details": [
+        "Title renamed from \"Technical Specifications\" to \"Akaar L1\".",
+        "text added: \"\"",
+        "image added: \"Akaar L1\"",
+        "image removed: \"image\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "removed",
+      "product": "Akaar E1",
+      "text": "Deleted topic \"Quick Start Guide\".",
+      "details": [
+        "Deleted topic \"Quick Start Guide\"."
+      ]
+    },
     {
       "date": "30 Jul 2026",
       "tag": "updated",
