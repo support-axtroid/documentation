@@ -42,7 +42,7 @@
     },
     {
       "id": "prod_3dby6gh",
-      "name": "PLA Materials",
+      "name": "PLA Material",
       "category": "Materials"
     }
   ],
@@ -100,6 +100,12 @@
       "productId": "prod_npbr017",
       "title": "FAQs",
       "order": 3
+    },
+    {
+      "id": "sec_dzcukod",
+      "productId": "prod_lnd2fz1",
+      "title": "Technical Specifications",
+      "order": 0
     }
   ],
   "topics": [
@@ -294,9 +300,36 @@
       "order": 6,
       "updated": "28 Jul 2026",
       "file": "akaar-e1-service-manuals-fan.json"
+    },
+    {
+      "id": "top_x4dg59r",
+      "sectionId": "sec_dzcukod",
+      "title": "Koyal N1",
+      "order": 0,
+      "updated": "30 Jul 2026",
+      "file": "koyla-n1-technical-specifications-koyal-n1.json"
     }
   ],
   "changelog": [
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Koyla N1",
+      "text": "\"Koyal N1\" updated",
+      "details": [
+        "Title renamed from \"Koyla N1\" to \"Koyal N1\".",
+        "text added: \"\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "added",
+      "product": "Koyla N1",
+      "text": "Koyla N1",
+      "details": [
+        "Koyla N1"
+      ]
+    },
     {
       "date": "29 Jul 2026",
       "tag": "updated",
