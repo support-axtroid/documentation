@@ -118,6 +118,12 @@
       "productId": "prod_y3f1tom",
       "title": "Overview",
       "order": 0
+    },
+    {
+      "id": "sec_f3z32xa",
+      "productId": "prod_nu2beys",
+      "title": "Overview",
+      "order": 0
     }
   ],
   "topics": [
@@ -352,9 +358,71 @@
       "order": 1,
       "updated": "30 Jul 2026",
       "file": "vilay-s1-overview-technical-specifications.json"
+    },
+    {
+      "id": "top_0r1sz7t",
+      "sectionId": "sec_f3z32xa",
+      "title": "Mahakaar 3XL1",
+      "order": 0,
+      "updated": "30 Jul 2026",
+      "file": "mahakaar-3xl1-overview-mahakaar-3xl1.json"
+    },
+    {
+      "id": "top_wmwxyos",
+      "sectionId": "sec_f3z32xa",
+      "title": "Technical Specifications",
+      "order": 1,
+      "updated": "30 Jul 2026",
+      "file": "mahakaar-3xl1-overview-technical-specifications.json"
     }
   ],
   "changelog": [
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Mahakaar 3XL1",
+      "text": "\"Technical Specifications\" updated",
+      "details": [
+        "image added: \"image\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Mahakaar 3XL1",
+      "text": "\"Mahakaar 3XL1\" updated",
+      "details": [
+        "text added: \"\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Mahakaar 3XL1",
+      "text": "\"Mahakaar 3XL1\" updated",
+      "details": [
+        "text added: \"\"",
+        "image added: \"image\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "added",
+      "product": "Mahakaar 3XL1",
+      "text": "Technical Specifications",
+      "details": [
+        "Technical Specifications"
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "added",
+      "product": "Mahakaar 3XL1",
+      "text": "Mahakaar 3XL1",
+      "details": [
+        "Mahakaar 3XL1"
+      ]
+    },
     {
       "date": "30 Jul 2026",
       "tag": "updated",
