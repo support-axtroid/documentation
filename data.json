@@ -434,9 +434,92 @@
       "order": 0,
       "updated": "30 Jul 2026",
       "file": "akaar-e1-service-manuals-service-manual-v1-0.json"
+    },
+    {
+      "id": "top_ij6qxka",
+      "sectionId": "sec_18mrzyq",
+      "title": "Basic",
+      "order": 0,
+      "updated": "30 Jul 2026",
+      "file": "akaar-e1-troubleshooting-guides-basic.json"
     }
   ],
   "changelog": [
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Akaar E1",
+      "text": "\"Basic\" updated",
+      "details": [
+        "text added: \"\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "added",
+      "product": "Akaar E1",
+      "text": "Basic",
+      "details": [
+        "Basic"
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Akaar E1",
+      "text": "\"User's Manual (v1.0)\" updated",
+      "details": [
+        "text added: \"\"",
+        "text added: \"\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Akaar E1",
+      "text": "\"User's Manual (v1.0)\" updated",
+      "details": [
+        "text removed: \"\"",
+        "text removed: \"\"",
+        "text removed: \"\"",
+        "text removed: \"\"",
+        "text removed: \"\"",
+        "text removed: \"\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Akaar E1",
+      "text": "\"User's Manual (v1.0)\" updated",
+      "details": [
+        "No visible content change."
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Akaar E1",
+      "text": "\"User's Manual (v1.0)\" updated",
+      "details": [
+        "text added: \"\"",
+        "text added: \"\"",
+        "text added: \"\"",
+        "text added: \"\"",
+        "text added: \"\"",
+        "text added: \"\"",
+        "text added: \"\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Akaar E1",
+      "text": "\"Setup\" updated",
+      "details": [
+        "No visible content change."
+      ]
+    },
     {
       "date": "30 Jul 2026",
       "tag": "updated",
