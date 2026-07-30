@@ -124,6 +124,12 @@
       "productId": "prod_nu2beys",
       "title": "Overview",
       "order": 0
+    },
+    {
+      "id": "sec_g4sbtwv",
+      "productId": "prod_3dby6gh",
+      "title": "PLA Filament",
+      "order": 0
     }
   ],
   "topics": [
@@ -374,9 +380,44 @@
       "order": 1,
       "updated": "30 Jul 2026",
       "file": "mahakaar-3xl1-overview-technical-specifications.json"
+    },
+    {
+      "id": "top_nfhbs52",
+      "sectionId": "sec_g4sbtwv",
+      "title": "Axtroid PLA Filament",
+      "order": 0,
+      "updated": "30 Jul 2026",
+      "file": "pla-material-pla-filament-axtroid-pla-filament.json"
     }
   ],
   "changelog": [
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "PLA Material",
+      "text": "\"Axtroid PLA Filament\" updated",
+      "details": [
+        "text added: \"\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "PLA Material",
+      "text": "\"Axtroid PLA Filament\" updated",
+      "details": [
+        "image added: \"image\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "added",
+      "product": "PLA Material",
+      "text": "Axtroid PLA Filament",
+      "details": [
+        "Axtroid PLA Filament"
+      ]
+    },
     {
       "date": "30 Jul 2026",
       "tag": "updated",
