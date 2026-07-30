@@ -8,5 +8,15 @@
     "query": "Create User Manual",
     "email": "shahid.andlagutti@axtroid.com",
     "status": "in-progress"
+  },
+  {
+    "id": "tick_ig4toet",
+    "date": "30 Jul 2026",
+    "product": "Akaar L1",
+    "section": "Overview",
+    "topic": "Akaar L1",
+    "query": "How to insert filament?",
+    "email": "deelip.menezes@axtroid.com",
+    "status": "open"
   }
 ]
