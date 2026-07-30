@@ -7,7 +7,7 @@
     },
     {
       "id": "prod_0f76ils",
-      "name": "Vyra S1",
+      "name": "Vayra X1",
       "category": "VR"
     },
     {
@@ -132,8 +132,8 @@
       "order": 0
     },
     {
-      "id": "sec_uuhr6vx",
-      "productId": "prod_hxv68h9",
+      "id": "sec_qvhzen6",
+      "productId": "prod_0f76ils",
       "title": "Overview",
       "order": 0
     }
@@ -396,27 +396,27 @@
       "file": "pla-material-pla-filament-axtroid-pla-filament.json"
     },
     {
-      "id": "top_vtecgyg",
-      "sectionId": "sec_uuhr6vx",
-      "title": "Veksha S1",
+      "id": "top_bjrljm7",
+      "sectionId": "sec_qvhzen6",
+      "title": "Vayra X1",
       "order": 0,
       "updated": "30 Jul 2026",
-      "file": "veksha-s1-overview-veksha-s1.json"
+      "file": "vayra-x1-overview-vayra-x1.json"
     },
     {
-      "id": "top_s9p1gss",
-      "sectionId": "sec_uuhr6vx",
+      "id": "top_hqosx0o",
+      "sectionId": "sec_qvhzen6",
       "title": "Technical Specifications",
       "order": 1,
       "updated": "30 Jul 2026",
-      "file": "veksha-s1-overview-technical-specifications.json"
+      "file": "vayra-x1-overview-technical-specifications.json"
     }
   ],
   "changelog": [
     {
       "date": "30 Jul 2026",
       "tag": "updated",
-      "product": "Veksha S1",
+      "product": "Vayra X1",
       "text": "\"Technical Specifications\" updated",
       "details": [
         "image added: \"image\""
@@ -425,9 +425,10 @@
     {
       "date": "30 Jul 2026",
       "tag": "updated",
-      "product": "Veksha S1",
-      "text": "\"Veksha S1\" updated",
+      "product": "Vayra X1",
+      "text": "\"Vayra X1\" updated",
       "details": [
+        "Title renamed from \"Vayra S1\" to \"Vayra X1\".",
         "text added: \"\"",
         "image added: \"image\"",
         "text added: \"\""
@@ -436,7 +437,7 @@
     {
       "date": "30 Jul 2026",
       "tag": "added",
-      "product": "Veksha S1",
+      "product": "Vayra S1",
       "text": "Technical Specifications",
       "details": [
         "Technical Specifications"
@@ -445,10 +446,10 @@
     {
       "date": "30 Jul 2026",
       "tag": "added",
-      "product": "Veksha S1",
-      "text": "Veksha S1",
+      "product": "Vayra S1",
+      "text": "Vayra S1",
       "details": [
-        "Veksha S1"
+        "Vayra S1"
       ]
     },
     {
