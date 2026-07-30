@@ -112,6 +112,12 @@
       "productId": "prod_8f6w1qd",
       "title": "Technical Specifications",
       "order": 0
+    },
+    {
+      "id": "sec_1njga36",
+      "productId": "prod_y3f1tom",
+      "title": "Overview",
+      "order": 0
     }
   ],
   "topics": [
@@ -330,9 +336,81 @@
       "order": 1,
       "updated": "30 Jul 2026",
       "file": "akaar-e1-overview-technical-specifications.json"
+    },
+    {
+      "id": "top_xta6qn7",
+      "sectionId": "sec_1njga36",
+      "title": "Vilay S1",
+      "order": 0,
+      "updated": "30 Jul 2026",
+      "file": "vilay-s1-overview-vilay-s1.json"
+    },
+    {
+      "id": "top_nfzq2qk",
+      "sectionId": "sec_1njga36",
+      "title": "Technical Specifications",
+      "order": 1,
+      "updated": "30 Jul 2026",
+      "file": "vilay-s1-overview-technical-specifications.json"
     }
   ],
   "changelog": [
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Vilay S1",
+      "text": "\"Technical Specifications\" updated",
+      "details": [
+        "image added: \"image\"",
+        "text removed: \"\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Vilay S1",
+      "text": "\"Vilay S1\" updated",
+      "details": [
+        "image added: \"image\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Vilay S1",
+      "text": "\"Vilay S1\" updated",
+      "details": [
+        "text added: \"\"",
+        "text added: \"\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Vilay S1",
+      "text": "\"Technical Specifications\" updated",
+      "details": [
+        "text added: \"\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "added",
+      "product": "Vilay S1",
+      "text": "Technical Specifications",
+      "details": [
+        "Technical Specifications"
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "added",
+      "product": "Vilay S1",
+      "text": "Vilay S1",
+      "details": [
+        "Vilay S1"
+      ]
+    },
     {
       "date": "30 Jul 2026",
       "tag": "updated",
