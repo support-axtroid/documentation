@@ -305,8 +305,15 @@
   .print-menu.is-open .print-dropdown{display:block;}
   .print-dropdown button{display:flex;align-items:center;gap:8px;width:100%;background:none;border:none;padding:9px 12px;font-size:.83rem;text-align:left;cursor:pointer;color:var(--text-main);}
   .print-dropdown button:hover{background:#F1ECE1;}
+  .article-toc{border:1px solid var(--paper-line);background:#FBF9F5;border-radius:var(--radius);padding:14px 18px 12px;margin:22px 0 8px;}
+  .article-toc-heading{font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;color:var(--text-muted);font-weight:700;margin-bottom:8px;}
+  .article-toc-list{list-style:none;margin:0;padding:0;}
+  .article-toc-list li{margin:0 0 6px;break-inside:avoid;}
+  .article-toc-list a{font-size:.86rem;color:var(--accent-dark);cursor:pointer;}
+  .article-toc-list a:hover{text-decoration:underline;}
+  @media (min-width:640px){ .article-toc-list{columns:2;column-gap:28px;} }
   @media print{
-    .topbar,.sidebar,.rightbar,.site-footer,.sidebar-backdrop,.toast,.modal-overlay,.freeze-overlay,.print-menu,.fav-toggle,.breadcrumb{display:none !important;}
+    .topbar,.sidebar,.rightbar,.site-footer,.sidebar-backdrop,.toast,.modal-overlay,.freeze-overlay,.print-menu,.fav-toggle,.breadcrumb,.article-toc{display:none !important;}
     .kb-shell{display:block;min-height:0;}
     .main{padding:0;max-width:100%;}
   }
@@ -449,12 +456,25 @@
     }
     function load(){
       ghGetFile(ticketsPath).then(function(existing){
-        var list = [];
         if (existing && existing.content){
+          var list = [];
           try{ list = JSON.parse(decodeURIComponent(escape(atob(existing.content.replace(/\n/g,''))))); }catch(e){ list = []; }
+          render(list);
+          bindActions(list);
+          return;
         }
-        render(list);
-        bindActions(list);
+        if (existing && existing.download_url){
+          return fetch(existing.download_url).then(function(r){
+            if (!r.ok) throw new Error('download failed ('+r.status+')');
+            return r.text();
+          }).then(function(txt){
+            var list = []; try{ list = JSON.parse(txt); }catch(e){ list = []; }
+            render(list);
+            bindActions(list);
+          });
+        }
+        render([]);
+        bindActions([]);
       }).catch(function(e){
         document.getElementById('ticketsList').innerHTML = '<p style="color:#B3261E;">Could not load tickets: '+esc(e.message)+'</p>';
       });
