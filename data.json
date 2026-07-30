@@ -106,6 +106,12 @@
       "productId": "prod_lnd2fz1",
       "title": "Technical Specifications",
       "order": 0
+    },
+    {
+      "id": "sec_mddxyht",
+      "productId": "prod_8f6w1qd",
+      "title": "Technical Specifications",
+      "order": 0
     }
   ],
   "topics": [
@@ -308,9 +314,53 @@
       "order": 0,
       "updated": "30 Jul 2026",
       "file": "koyla-n1-technical-specifications-koyal-n1.json"
+    },
+    {
+      "id": "top_n6fitv6",
+      "sectionId": "sec_mddxyht",
+      "title": "Myna S1",
+      "order": 0,
+      "updated": "30 Jul 2026",
+      "file": "myna-s1-technical-specifications-myna-s1.json"
     }
   ],
   "changelog": [
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Myna S1",
+      "text": "\"Myna S1\" updated",
+      "details": [
+        "image added: \"Myna S1\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Myna S1",
+      "text": "\"Myna S1\" updated",
+      "details": [
+        "No visible content change."
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "updated",
+      "product": "Myna S1",
+      "text": "\"Myna S1\" updated",
+      "details": [
+        "text added: \"\""
+      ]
+    },
+    {
+      "date": "30 Jul 2026",
+      "tag": "added",
+      "product": "Myna S1",
+      "text": "Myna S1",
+      "details": [
+        "Myna S1"
+      ]
+    },
     {
       "date": "30 Jul 2026",
       "tag": "updated",
